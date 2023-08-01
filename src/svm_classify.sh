@@ -1,3 +1,3 @@
 #!/bin/sh
 
-python3 ./svm_classify.py $@
+python3 src/svm_classify.py $@
