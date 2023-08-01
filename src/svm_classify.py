@@ -1,5 +1,3 @@
-"""Sadaf Khan, LING572, HW8, 02/28/2022. Uses a SVM model created by libSVM to classify test instances."""
-
 import os
 import sys
 import numpy as np
